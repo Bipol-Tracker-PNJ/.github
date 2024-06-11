@@ -3,18 +3,17 @@
 Proyek Kekhususan - Teknik Multimedia dan Jaringan - Teknik Informatika dan Komputer - Politeknik Negeri Jakarta
 
 Bipol Tracker adalah sebuah aplikasi untuk memantau jadwal dan posisi Bis Politeknik (bipol) yang digunakan oleh Mahasiswa PNJ dalam transportasi di lingkungan kampus. Perancangan Bipol Tracker menggunakan 4 Layer IoT.
-Cara Kerja
 
-# Features
+# Cara Kerja
 
 - Mahasiswa dapat memantau lokasi bipol secara real-time
 - Sistem IoT dapat mendeteksi lokasi bipol
 = Sistem IoT dapat mengirim informasi ke server
 - Aplikasi dapat menampilkan informasi lokasi bipol
 
-# Our Team
+# Team Kami
 
-| Student ID | Name | Learning Path | University | Linkedin |
+| Student ID | Name | Learning Path | University |
 | ----- | ----- | ----- | ----- | ----- |
 |210742109|Shoffan Darul Mufti|IoT Engineer|[Here](https://www.linkedin.com/in/shoffanda/)|
 |210742114|Fajar Firdaus de Roock|Mobile Developer|[Here](https://www.linkedin.com/in/firdausderoock/)|
