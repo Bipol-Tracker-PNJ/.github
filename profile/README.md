@@ -13,7 +13,7 @@ Bipol Tracker adalah sebuah aplikasi untuk memantau jadwal dan posisi Bis Polite
 
 # Team Kami
 
-| Student ID | Name | Learning Path | University |
+| NIM | Nama | Tugas | LinkedIn |
 | ----- | ----- | ----- | ----- | ----- |
 |210742109|Shoffan Darul Mufti|IoT Engineer|[Here](https://www.linkedin.com/in/shoffanda/)|
 |210742114|Fajar Firdaus de Roock|Mobile Developer|[Here](https://www.linkedin.com/in/firdausderoock/)|
