@@ -14,8 +14,8 @@ Cara Kerja
 
 # Our Team
 
-**| Bangkit ID | Name | Position | Linkedin |**
-| ----- | ----- | ----- | ----- |
+| Student ID | Name | Learning Path | University | Linkedin |
+| ----- | ----- | ----- | ----- | ----- |
 |210742109|Shoffan Darul Mufti|IoT Engineer|[Here](https://www.linkedin.com/in/shoffanda/)|
 |210742114|Fajar Firdaus de Roock|Mobile Developer|[Here](https://www.linkedin.com/in/firdausderoock/)|
 |210742102|Eza Musyarof|Backend Developer|[Here](https://www.linkedin.com/in/ezamusyarof/)|
