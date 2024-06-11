@@ -8,7 +8,7 @@ Bipol Tracker adalah sebuah aplikasi untuk memantau jadwal dan posisi Bis Polite
 
 - Mahasiswa dapat memantau lokasi bipol secara real-time
 - Sistem IoT dapat mendeteksi lokasi bipol
-= Sistem IoT dapat mengirim informasi ke server
+- Sistem IoT dapat mengirim informasi ke server
 - Aplikasi dapat menampilkan informasi lokasi bipol
 
 # Team Kami
@@ -23,7 +23,7 @@ Bipol Tracker adalah sebuah aplikasi untuk memantau jadwal dan posisi Bis Polite
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Tourify-Capstone"
+    src="https://komarev.com/ghpvc/?username=Bipol-Tracker-PNJ"
     alt="gargakshit"
   />
 </p>
